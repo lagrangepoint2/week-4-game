@@ -1,0 +1,39 @@
+body {
+	/*width: 85%;*/
+	margin: 0 auto;
+	padding: 0 auto;
+
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	color: #403F3F;
+
+	background-image: url("../images/bg.png");
+	background-repeat: repeat;
+
+	line-height: 165%;
+}
+
+.head {
+	margin: 15px;
+	margin-bottom: 45px;
+	padding: 10px;
+}
+
+.crybutton {
+	background-color: transparent;
+	border: 0;
+}
+
+h1 {
+	    font-size: 35px;
+}
+
+button {
+	margin: 5px;
+	margin-bottom: 10px;
+}
+
+
+* {
+  box-sizing: border-box;
+}
